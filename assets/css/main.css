@@ -2079,7 +2079,7 @@
 			}
 
 		.image.avatar {
-			border-radius: 100%;
+			border-radius: 50%;
 		}
 
 			.image.avatar:before {
@@ -2087,7 +2087,7 @@
 			}
 
 			.image.avatar img {
-				border-radius: 100%;
+				border-radius: 50%;
 				width: 100%;
 			}
 
